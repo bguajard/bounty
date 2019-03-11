@@ -1,0 +1,565 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Mar 2019 22:10:58 at https://icodrops.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0c8H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://icodrops.com/ -O1 "C:\My Web Sites\bounty" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:11:18	Error: 	"Origin Error" (520) at link https://icodrops.com/xmlrpc.php?rsd (from https://icodrops.com/)
+22:11:18	Error: 	"Not Found" (404) at link https://icodrops.com/favicons/favicon.ico (from https://icodrops.com/)
+22:17:26	Warning: 	Link https://icodrops.com/advertising-programm/ not scanned (follow robots meta tag)
+22:17:27	Warning: 	Link https://icodrops.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:17:27	Warning: 	Moved Permanently for https://icodrops.com/?p=10245
+22:17:27	Warning: 	File has moved from https://icodrops.com/?p=10245 to https://icodrops.com/ico-stats/
+22:18:20	Error: 	Exit requested by shell or user
+22:18:20	Warning: 	File not added due to mirror cancel: https://icodrops.com/wp-content/uploads/2018/05/Usechain-Advisors-300x178.png
+22:18:20	Warning: 	File not added due to mirror cancel: https://icodrops.com/wp-content/uploads/2018/05/Usechain-Advisors-300x178.png
+22:18:20	Warning: 	File not added due to mirror cancel: https://icodrops.com/wp-content/uploads/2018/05/Usechain-Advisors-300x178.png
+22:18:20	Warning: 	File not added due to mirror cancel: https://icodrops.com/wp-content/uploads/2018/05/Usechain-Advisors-300x178.png
+22:18:23	Error: 	"Not Found" (404) at link https://icodrops.com/wp-content/uploads/2018/04/Game.com-Ð´ÑÐ¿Ñ-150x150.jpg (from https://icodrops.com/ico-stats/)
+22:18:25	Warning: 	Moved Permanently for https://icodrops.com/?p=21253
+22:18:25	Warning: 	File has moved from https://icodrops.com/?p=21253 to https://icodrops.com/whitelist/
+22:18:25	Error: 	"Not Found" (404) at link https://icodrops.com/wp-content/uploads/2018/02/Ð¡Ð½Ð¸Ð¼Ð¾Ðº-ÑÐºÑÐ°Ð½Ð°-2018-03-12-Ð²-21.58.47-150x150.jpeg (from https://icodrops.com/whitelist/)
+22:18:48	Error: 	"Not Found" (404) at link https://icodrops.com/wp-content/uploads/2018/04/Squeezer-Ð´ÑÐ¿Ñ-150x150.jpg (from https://icodrops.com/category/ended-ico/)
+22:18:49	Error: 	"Not Found" (404) at link https://icodrops.com/wp-content/uploads/2018/03/MoneyToken-Ð´ÑÐ¿Ñ-150x150.jpg (from https://icodrops.com/category/ended-ico/)
+22:18:50	Error: 	"Not Found" (404) at link https://icodrops.com/wp-content/uploads/2018/07/MultiVAC-LÐ¾go-150x150.jpg (from https://icodrops.com/category/upcoming-ico/)
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=21242
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=21242 to https://icodrops.com/disclaimer/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=31871
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=31871 to https://icodrops.com/pledgecamp/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=18132
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=18132 to https://icodrops.com/oceanprotocol/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=33552
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=33552 to https://icodrops.com/universal-protocol/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=33980
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=33980 to https://icodrops.com/contentos/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=30642
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=30642 to https://icodrops.com/webloc-protocol/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=30600
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=30600 to https://icodrops.com/harmony/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=29395
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=29395 to https://icodrops.com/lightstreams/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=34851
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=34851 to https://icodrops.com/lition/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=30474
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=30474 to https://icodrops.com/celer-network/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=30785
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=30785 to https://icodrops.com/uncloak/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=33417
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=33417 to https://icodrops.com/oath-protocol/
+22:18:50	Error: 	"Not Found" (404) at link https://icodrops.com/wp-content/uploads/2018/04/MetaCert-Protocol-Ð´ÑÐ¿Ñ-150x150.jpg (from https://icodrops.com/oath-protocol/)
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=32792
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=32792 to https://icodrops.com/chromaway/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=32072
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=32072 to https://icodrops.com/glass/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=31829
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=31829 to https://icodrops.com/jura-network/
+22:18:50	Warning: 	Moved Permanently for https://icodrops.com/?p=31520
+22:18:50	Warning: 	File has moved from https://icodrops.com/?p=31520 to https://icodrops.com/duo-network/
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=30905
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=30905 (from https://icodrops.com/agora/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/hub-token/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hub-token/ (from https://icodrops.com/agora/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/intervalue/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/intervalue/ (from https://icodrops.com/agora/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=30302
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=30302 (from https://icodrops.com/eloncity/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=29774
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=29774 (from https://icodrops.com/solana/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/alacris/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/alacris/ (from https://icodrops.com/solana/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/jarvis/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/jarvis/ (from https://icodrops.com/solana/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=29494
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=29494 (from https://icodrops.com/noia-network/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/qilimanjaro/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/qilimanjaro/ (from https://icodrops.com/noia-network/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=29311
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=29311 (from https://icodrops.com/fluence/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/tenzorum/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/tenzorum/ (from https://icodrops.com/fluence/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/clovyr/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/clovyr/ (from https://icodrops.com/fluence/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/everitoken/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/everitoken/ (from https://icodrops.com/fluence/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=29245
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=29245 (from https://icodrops.com/boosto/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/linix/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/linix/ (from https://icodrops.com/boosto/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=35001
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=35001 (from https://icodrops.com/dos-network/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=33184
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=33184 (from https://icodrops.com/magnachain/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=33567
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=33567 (from https://icodrops.com/terra/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/icovo/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/icovo/ (from https://icodrops.com/terra/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/dimpay/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dimpay/ (from https://icodrops.com/terra/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=31258
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=31258 (from https://icodrops.com/fetch-ai/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/mirocana/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/mirocana/ (from https://icodrops.com/fetch-ai/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=28931
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=28931 (from https://icodrops.com/cryptyk/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=31643
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=31643 (from https://icodrops.com/uranus/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/zeex/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/zeex/ (from https://icodrops.com/uranus/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=31308
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=31308 (from https://icodrops.com/orvium/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=34724
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=34724 (from https://icodrops.com/bittorrent/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/wowoo/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/wowoo/ (from https://icodrops.com/bittorrent/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/scry-info/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/scry-info/ (from https://icodrops.com/bittorrent/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=34690
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=34690 (from https://icodrops.com/vanta-network/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/ternio/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/ternio/ (from https://icodrops.com/vanta-network/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/becent/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/becent/ (from https://icodrops.com/vanta-network/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/saturn-network/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/saturn-network/ (from https://icodrops.com/vanta-network/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=32335
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=32335 (from https://icodrops.com/celes-chain/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/qchain/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/qchain/ (from https://icodrops.com/celes-chain/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=34515
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=34515 (from https://icodrops.com/haratoken/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/mossland/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/mossland/ (from https://icodrops.com/haratoken/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/protos/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/protos/ (from https://icodrops.com/haratoken/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/goldmint/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/goldmint/ (from https://icodrops.com/haratoken/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=32483
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=32483 (from https://icodrops.com/ltonetwork/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/bumo/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/bumo/ (from https://icodrops.com/ltonetwork/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=34596
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=34596 (from https://icodrops.com/beam/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=34168
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=34168 (from https://icodrops.com/temco/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/hero/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hero/ (from https://icodrops.com/temco/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=34674
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=34674 (from https://icodrops.com/newdex/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=1028
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=1028 (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/top-network/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/top-network/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/skynet/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/skynet/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/opporty/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/opporty/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/lendoit/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/lendoit/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/emx/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/emx/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/bridgex/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/bridgex/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/scidex/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/scidex/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/swipe-network/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/swipe-network/ (from https://icodrops.com/bounty-list/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=21249
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=21249 (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/dars/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dars/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/send-protocol/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/send-protocol/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/dispatch-labs/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dispatch-labs/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/redi/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/redi/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/kronostoken/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/kronostoken/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/eleven01/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/eleven01/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/tap/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/tap/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/everest/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/everest/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/nounou/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/nounou/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/robonomics/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/robonomics/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/review-network/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/review-network/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/ledgity/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/ledgity/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/bitproperty/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/bitproperty/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/nebula-genomics/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/nebula-genomics/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/kadena/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/kadena/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/alphapoint/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/alphapoint/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/fragments/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/fragments/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/adrealm/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/adrealm/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/peeratlas/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/peeratlas/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/thunder-token/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/thunder-token/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/hoard/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hoard/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/doctor-smart/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/doctor-smart/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/hypernet/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hypernet/ (from https://icodrops.com/sandbox/)
+22:18:50	Warning: 	File not added due to mirror cancel: https://icodrops.com/firmo-network/
+22:18:50	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/firmo-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/xain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/xain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/esprezzo/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/esprezzo/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/txhash-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/txhash-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/playerone/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/playerone/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/acg-chain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/acg-chain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/libertaria/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/libertaria/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/medilot/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/medilot/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/beyond-protocol/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/beyond-protocol/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/matic-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/matic-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/investre/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/investre/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/chain-of-things/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/chain-of-things/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/hadron/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hadron/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/marconi/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/marconi/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/zeus-protocol/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/zeus-protocol/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/elph/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/elph/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/sparrow-exchange/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/sparrow-exchange/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/rayon-protocol/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/rayon-protocol/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/mind-ai/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/mind-ai/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/storecoin/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/storecoin/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/dnet/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dnet/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/celo/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/celo/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/imorpheus/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/imorpheus/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/dad/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dad/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/peaq/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/peaq/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/arcana-wallet/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/arcana-wallet/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/iame/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/iame/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/jupiter-chain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/jupiter-chain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/spatium/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/spatium/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/messari/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/messari/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/cocos-bcx/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/cocos-bcx/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/gruut-networks/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/gruut-networks/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/palletone/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/palletone/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/dirt-protocol/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dirt-protocol/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/chainspace/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/chainspace/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/cartesi/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/cartesi/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/qubit-protocol/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/qubit-protocol/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/points/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/points/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/atlas-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/atlas-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/handshake/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/handshake/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/tokenloan/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/tokenloan/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/veritoken/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/veritoken/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/amino/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/amino/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/chia/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/chia/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/botchain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/botchain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/alluma/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/alluma/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/health-nexus/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/health-nexus/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/aeryus/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/aeryus/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/layer-protocol/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/layer-protocol/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/hazza-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hazza-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/snips/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/snips/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/bzx-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/bzx-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/kbcoin/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/kbcoin/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/bountie/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/bountie/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/path-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/path-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/springrole/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/springrole/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/dusk/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dusk/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/sweetbridge/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/sweetbridge/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/vena-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/vena-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/cloudbric/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/cloudbric/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/mxc/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/mxc/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/caspian/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/caspian/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/alza/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/alza/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/humanscape/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/humanscape/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/ubex/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/ubex/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/quickx/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/quickx/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/mycreditchain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/mycreditchain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/vault12/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/vault12/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/bolt/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/bolt/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/tolar-hashnet/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/tolar-hashnet/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/iolite/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/iolite/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/minerva/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/minerva/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/lendchain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/lendchain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/trusttoken/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/trusttoken/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/inmediate/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/inmediate/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/4new/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/4new/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/silkchain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/silkchain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/alt-estate/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/alt-estate/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/talao/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/talao/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/wemark/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/wemark/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/livepeer/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/livepeer/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/etherisc/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/etherisc/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/hitchain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hitchain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/swytch/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/swytch/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/carboneum/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/carboneum/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/ubbey-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/ubbey-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/nuggets/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/nuggets/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/welltrado/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/welltrado/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/constellation/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/constellation/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/safein/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/safein/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/loomia/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/loomia/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/kora-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/kora-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/mingo/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/mingo/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/stream/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/stream/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/gimmer/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/gimmer/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/seal-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/seal-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/world-wi-fi/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/world-wi-fi/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/brickblock/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/brickblock/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/saifu/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/saifu/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/signals/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/signals/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/proximax/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/proximax/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/shopin/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/shopin/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/concierge-io/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/concierge-io/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/coinmetro/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/coinmetro/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/themis-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/themis-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/giftcoin/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/giftcoin/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/neurochain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/neurochain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/morpheus-labs/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/morpheus-labs/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/vlb-tokens/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/vlb-tokens/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/repux/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/repux/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/thor-token/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/thor-token/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/pikciochain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/pikciochain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/gilgamesh/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/gilgamesh/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/sharder/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/sharder/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/blitzpredict/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/blitzpredict/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/daneel/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/daneel/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/tradove/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/tradove/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/rocket-ico/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/rocket-ico/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/alpha-protocol/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/alpha-protocol/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/scorum/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/scorum/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/eristica/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/eristica/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/energitoken/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/energitoken/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/iungo/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/iungo/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/hade/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hade/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/blockport/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/blockport/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/srg/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/srg/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/eztoken/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/eztoken/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/x8currency/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/x8currency/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/hoqu/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hoqu/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/algory/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/algory/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/gameflip/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/gameflip/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/wcx/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/wcx/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/nitro/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/nitro/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/robomed/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/robomed/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/hydrominer/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hydrominer/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/eventchain/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/eventchain/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/cartaxi/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/cartaxi/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/atlant/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/atlant/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/tokenstars/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/tokenstars/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/wolk/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/wolk/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/hashrush/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/hashrush/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/gimli/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/gimli/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/qvolta/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/qvolta/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/dlsacademy/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/dlsacademy/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/centra/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/centra/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/betking/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/betking/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/asch/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/asch/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/omega-one/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/omega-one/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/u-network/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/u-network/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/basis/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/basis/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/perun/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/perun/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/v-system/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/v-system/ (from https://icodrops.com/sandbox/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=24788
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=24788 (from https://icodrops.com/pre-sales/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=3657
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=3657 (from https://icodrops.com/calendar/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=389
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=389 (from https://icodrops.com/submit-ico/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=367
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=367 (from https://icodrops.com/about/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/bounty-ico/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/bounty-ico/ (from https://icodrops.com/about/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=21244
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=21244 (from https://icodrops.com/legal/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/terms/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/terms/ (from https://icodrops.com/legal/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/privacy-policy/
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/privacy-policy/ (from https://icodrops.com/legal/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=28640
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=28640 (from https://icodrops.com/kambria/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=32044
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=32044 (from https://icodrops.com/covalent/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=32658
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=32658 (from https://icodrops.com/bitmax/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=29683
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=29683 (from https://icodrops.com/nos/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=29421
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=29421 (from https://icodrops.com/atlas-protocol/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=31141
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=31141 (from https://icodrops.com/aergo/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=32028
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=32028 (from https://icodrops.com/lambda/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=28492
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=28492 (from https://icodrops.com/metadium/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=30733
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=30733 (from https://icodrops.com/ankr-network/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=32443
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=32443 (from https://icodrops.com/bgogo/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=28614
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=28614 (from https://icodrops.com/daex/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=28378
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=28378 (from https://icodrops.com/foam-protocol/)
+22:18:51	Warning: 	File not added due to mirror cancel: https://icodrops.com/?p=30673
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/?p=30673 (from https://icodrops.com/usechain/)
+22:18:51	Error: 	"mirror stopped by user" (-1) at link https://icodrops.com/wp-content/uploads/2018/05/Usechain-Advisors-300x178.png (from https://icodrops.com/usechain/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 53 seconds : 2568 links scanned, 2289 files written (69470496 bytes overall) [44364108 bytes received at 93793 bytes/sec], 32813555 bytes transferred using HTTP compression in 656 files, ratio 19%, 58.0 requests per connection
+(261 errors, 293 warnings, 0 messages)

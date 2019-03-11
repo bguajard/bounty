@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+icodrops.com	TRUE	/	FALSE	1999999999	cf_use_ob	0
+.icodrops.com	TRUE	/	FALSE	1999999999	__cfduid	d079909f8ba52b60e0f5a99bf49a38b6a1552331900
+
